@@ -99,7 +99,7 @@ public class AmtInfo {
 		return rtnAmtInfo;		
 	}
 	
-	//총 취소금액 정보 메소드
+	//총 취소금액 정보 메소드.
 	public AmtInfo getAmtInfo(List<CancelInfoEnty> cancelInfoEntyList) {
 		
 		AmtInfo rtnAmtInfo = new AmtInfo();
