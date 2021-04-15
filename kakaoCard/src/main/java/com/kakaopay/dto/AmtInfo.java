@@ -110,7 +110,6 @@ public class AmtInfo {
 		if(cancelInfoEntyList!=null) {
 			for(int i=0; i < cancelInfoEntyList.size(); i++) {
 				
-				cancelInfoEnty = null;
 				cancelInfoEnty = new CancelInfoEnty();
 				cancelInfoEnty = cancelInfoEntyList.get(i);
 				

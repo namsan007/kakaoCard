@@ -78,7 +78,6 @@ public class KakaoCardServiceImpl implements KakaoCardService {
 		if(payInfoEntyList!=null) {
 			for(int i=0; i < payInfoEntyList.size(); i++) {
 				
-				payInfoEnty = null;
 				payInfoEnty = new PayInfoEnty();
 				payInfoEnty = payInfoEntyList.get(i);
 				
@@ -135,7 +134,6 @@ public class KakaoCardServiceImpl implements KakaoCardService {
 		if(cancelInfoEntyList!=null) {
 			for(int i=0; i < cancelInfoEntyList.size(); i++) {
 				
-				cancelInfoEnty = null;
 				cancelInfoEnty = new CancelInfoEnty();
 				cancelInfoEnty = cancelInfoEntyList.get(i);
 				

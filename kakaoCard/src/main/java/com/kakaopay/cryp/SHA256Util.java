@@ -26,7 +26,6 @@ public class SHA256Util {
 	public static String encrypt(String source) throws CrypExcn {
 		byte[] eArr = null;
 		try {
-			eArr = null;
 			SecretKeySpec skeySpec = new SecretKeySpec(KEYNAME.getBytes(), ALGORITHM);
 			Cipher cipher = Cipher.getInstance(AES_ECB_NOPADDING);
 			cipher.init(Cipher.ENCRYPT_MODE, skeySpec);
