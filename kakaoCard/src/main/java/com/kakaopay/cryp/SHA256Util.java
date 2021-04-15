@@ -13,7 +13,7 @@ import lombok.extern.slf4j.Slf4j;
  * 암호화 모듈
  *
  * @author kjy
- * @since Create : 2021. 4. 15
+ * @since Create : 2020. 4. 17.
  * @version 1.0
  */
 @Configuration

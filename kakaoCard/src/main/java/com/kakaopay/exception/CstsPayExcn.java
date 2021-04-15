@@ -7,7 +7,7 @@ package com.kakaopay.exception;
  * 3. 부분취소 : 결제 한 건에 대한 부분취소를 동시에 할 수 없습니다.
  *
  * @author kjy
- * @since Create : 2021. 4. 15
+ * @since Create : 2020. 4. 17.
  * @version 1.0
  */
 public class CstsPayExcn extends RuntimeException {

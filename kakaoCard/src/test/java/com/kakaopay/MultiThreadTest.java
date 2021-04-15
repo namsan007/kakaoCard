@@ -34,7 +34,7 @@ import com.kakaopay.repository.PayInfoRep;
  * 멀티스레드 테스트
  *
  * @author kjy
- * @since Create : 2021. 4. 15
+ * @since Create : 2020. 4. 17.
  * @version 1.0
  */
 @RunWith(SpringJUnit4ClassRunner.class)

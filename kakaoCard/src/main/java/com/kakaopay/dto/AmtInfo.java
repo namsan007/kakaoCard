@@ -11,7 +11,7 @@ import lombok.Data;
  * 결제 요청
  *
  * @author kjy
- * @since Create : 2021. 4. 15
+ * @since Create : 2020. 4. 17.
  * @version 1.0
  */
 @Data

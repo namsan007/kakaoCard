@@ -15,7 +15,7 @@ import lombok.NoArgsConstructor;
  * 취소 가능 금액 entity
  *
  * @author kjy
- * @since Create : 2021. 4. 15
+ * @since Create : 2020. 4. 17.
  * @version 1.0
  */
 @Entity

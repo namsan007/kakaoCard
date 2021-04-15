@@ -15,7 +15,7 @@ import lombok.NoArgsConstructor;
  * 결제_취소 전문
  * 
  * @author kjy
- * @since Create : 2021. 4. 15
+ * @since Create : 2020. 4. 17.
  * @version 1.0
  */
 @Entity

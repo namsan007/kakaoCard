@@ -17,7 +17,7 @@ import lombok.NoArgsConstructor;
  * 유일 시퀀스 번호 테이블
  *
  * @author kjy
- * @since Create : 2021. 4. 15
+ * @since Create : 2020. 4. 17.
  * @version 1.0
  */
 @Entity

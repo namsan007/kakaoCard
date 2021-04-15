@@ -37,7 +37,7 @@ import com.kakaopay.repository.PayUniqSeqEntyRep;
  * 결제 처리 service
  *
  * @author kjy
- * @since Create : 2021. 4. 15
+ * @since Create : 2020. 4. 17.
  * @version 1.0
  */
 @Service

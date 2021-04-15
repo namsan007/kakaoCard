@@ -11,7 +11,7 @@ import com.kakaopay.dto.SearchResDto;
  * 결제 처리 interface
  *
  * @author kjy
- * @since Create : 2021. 4. 15
+ * @since Create : 2020. 4. 17.
  * @version 1.0
  */
 public interface KakaoCardService {

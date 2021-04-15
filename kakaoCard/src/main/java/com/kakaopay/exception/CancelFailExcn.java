@@ -4,7 +4,7 @@ package com.kakaopay.exception;
  * 결제취소 API 호출시 취소 실패되는 경우 Exception
  *
  * @author kjy
- * @since Create : 2021. 4. 15
+ * @since Create : 2020. 4. 17.
  * @version 1.0
  */
 public class CancelFailExcn extends RuntimeException {

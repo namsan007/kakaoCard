@@ -10,7 +10,7 @@ import com.kakaopay.entity.PayInfoEnty;
  * PaymentInfo repository
  *
  * @author kjy
- * @since Create : 2021. 4. 15
+ * @since Create : 2020. 4. 17.
  * @version 1.0
  */
 public interface PayInfoRep extends JpaRepository<PayInfoEnty, Long> {
