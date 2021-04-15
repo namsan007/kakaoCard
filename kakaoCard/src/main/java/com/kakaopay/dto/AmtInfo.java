@@ -115,7 +115,6 @@ public class AmtInfo {
 				
 				payAmt += cancelInfoEnty.getPayAmt();
 				vatAmt += cancelInfoEnty.getVatAmt();
-				
 			}
 		}
 		rtnAmtInfo.setTotalAmt(payAmt +vatAmt);
