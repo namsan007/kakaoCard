@@ -4,14 +4,8 @@
 
 개발 언어 : JAVA -> 1.8 <br>
 DBMS : h2 -> 1.4.1999 <br>
-FrameWork : Spring Boot ->  2.1.5.RELEASE <br><br>
+FrameWork : Spring Boot ->  3.9.12.RELEASE <br><br>
 
-
-<b>테스트 및 실행 방법</b><br>
-<b>kakaopay-0.0.1-SNAPSHOT.jar 
-<b>download</b> 
-<b>받은 경로에서</b><br>
--> java -jar kakaopay-0.0.1-SNAPSHOT.jar<br>
 
 ->크롬 ARC 확장 프로그램 설치 <br><br>
 기본 접속 URL : http://localhost:9090  <br><br>
